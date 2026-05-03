@@ -1,0 +1,489 @@
+{
+  "restaurant": {
+    "name": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "phone": "+1 301 500 2191",
+    "instagram": "@rockville_dolanrestaurant",
+    "cuisine": "Uyghur",
+    "hours": "Open everyday"
+  },
+  "menu": {
+    "Appetizers": [
+      {
+        "name": "Lentil Soup",
+        "price": 9.95,
+        "description": "Lentil, wheat flour, onions, potatoes, red chili sauce, and tomato sauce, combined in a veggie broth base and sprinkled with mint",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false
+      },
+      {
+        "name": "Cold Skin Noodle",
+        "price": 9.95,
+        "description": "Made from Wheat Flour, Cucumber, Cilantro, Bean Sprouts, and Gluten with Spicy Sauce",
+        "dietary_tags": ["vegetarian"],
+        "spicy": true
+      },
+      {
+        "name": "Chuchura",
+        "price": 10.95,
+        "description": "Mini-dumpling soup with minced beef, lamb, and onions, seasoned with black pepper",
+        "dietary_tags": [],
+        "spicy": false
+      },
+      {
+        "name": "Sigara Boregi",
+        "price": 9.95,
+        "description": "Crispy rolls with herby cheese filling and parsley",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false
+      },
+      {
+        "name": "Cold Egg Noodle",
+        "price": 9.95,
+        "description": "Made from Flour and Egg with Spicy Sesame, Peanut, Sesame Sauce, and Chili Oil",
+        "dietary_tags": ["vegetarian"],
+        "spicy": true
+      },
+      {
+        "name": "Samsa",
+        "price": 4.95,
+        "description": "Oven-baked buns with minced beef, lamb and onions seasoned with black pepper, red pepper and sprinkled with sesame oil",
+        "dietary_tags": [],
+        "spicy": false,
+        "notes": "One Per Order"
+      },
+      {
+        "name": "Kawa Samsa",
+        "price": 4.95,
+        "description": "Butternut squash, onions, red and green bell peppers, black pepper, and house spices stuffed yolk and sesame sprinkled oven-baked buns",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false,
+        "notes": "One Per Order"
+      },
+      {
+        "name": "Chicken Burger",
+        "price": 10.95,
+        "description": "The Bun is filled with Chicken, Onion, and Peppers",
+        "dietary_tags": [],
+        "spicy": true
+      },
+      {
+        "name": "Beef Burger",
+        "price": 10.95,
+        "description": "The Bun is filled with Beef, Onion, and Peppers",
+        "dietary_tags": [],
+        "spicy": true
+      },
+      {
+        "name": "Dolma",
+        "price": 9.95,
+        "description": "Traditional Turkish dish that consists of stuffed vegetables, like bell peppers, aubergine, and white wrapped with grape leaves",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false
+      }
+    ],
+    "Rice & Noodles": [
+      {
+        "name": "Dolan Laghman",
+        "price": 19.95,
+        "description": "Sauteed beef and various combinations of vegetables, beef, and mushroom oyster-flavored sauce topped with hand-pulled chewy noodles",
+        "dietary_tags": [],
+        "spicy": false
+      },
+      {
+        "name": "Royal Laghman",
+        "base_price": 19.95,
+        "description": "Beef, stir-fried onions, cabbage, mushrooms, green and red peppers, mushroom oyster-flavored sauce, and tomato topped hand-pulled chewy noodles",
+        "dietary_tags": [],
+        "spicy": false,
+        "variants": [
+          {"option": "Vegetarian", "price": 19.95},
+          {"option": "With Beef", "price": 19.95},
+          {"option": "With Chicken", "price": 19.95},
+          {"option": "With Shrimp", "price": 23.95}
+        ]
+      },
+      {
+        "name": "Korma Chop",
+        "base_price": 19.95,
+        "description": "Uyghur-styled signature fried noodles with chives, onions, red bell peppers, and beef or chicken or shrimp. Vegetarian version also available",
+        "dietary_tags": [],
+        "spicy": false,
+        "variants": [
+          {"option": "Vegetarian", "price": 19.95},
+          {"option": "With Beef", "price": 19.95},
+          {"option": "With Chicken", "price": 19.95},
+          {"option": "With Shrimp", "price": 23.95}
+        ]
+      },
+      {
+        "name": "Pearled Noodles",
+        "price": 19.95,
+        "description": "Stir-fried pearled noodles with finely cut beef and veggies. Vegetarian version also available",
+        "dietary_tags": [],
+        "spicy": false
+      },
+      {
+        "name": "Fried Rice",
+        "base_price": 18.95,
+        "description": "White Rice fried with Chicken, salt, sugar, Onion, red and green peppers",
+        "dietary_tags": [],
+        "spicy": false,
+        "variants": [
+          {"option": "Vegetarian", "price": 18.95},
+          {"option": "With Chicken", "price": 18.95},
+          {"option": "With Beef", "price": 18.95},
+          {"option": "With Shrimp", "price": 22.95}
+        ]
+      },
+      {
+        "name": "Signature Rice Noodle",
+        "base_price": 19.95,
+        "description": "Rice noodles prepared with a stir-fry combination of chicken, onions, celery, chili peppers, spicy bean paste, oyster-flavored sauce and house spices",
+        "dietary_tags": [],
+        "spicy": true,
+        "variants": [
+          {"option": "With Chicken", "price": 19.95},
+          {"option": "With Beef", "price": 19.95},
+          {"option": "With Shrimp", "price": 23.95}
+        ]
+      },
+      {
+        "name": "Rock Pot Soup",
+        "base_price": 20.95,
+        "description": "Hot pot style soup available with beef or seafood. With Beef: house-made Meatball, Enoki Mushroom, Bok Choy, Tofu, Mung Bean Vermicelli, Cilantro, Scallion and Chili Oil. With Seafood: Shrimp, Fish-Tofu, Enoki Mushroom, Bok Choy, Tofu, Mung Bean Vermicelli, Cilantro, Scallion and Chili Oil",
+        "dietary_tags": [],
+        "spicy": true,
+        "variants": [
+          {"option": "With Beef and Meatball", "price": 20.95},
+          {"option": "With Seafood", "price": 23.95}
+        ]
+      },
+      {
+        "name": "Beef Noodle Soup",
+        "price": 17.95,
+        "description": "Beef, Onion, Scallion, Cilantro, Green Radish Noodles, and Spicy Chili Oil",
+        "dietary_tags": [],
+        "spicy": true
+      },
+      {
+        "name": "White Rice",
+        "price": 3.50,
+        "description": "Plain steamed white rice",
+        "dietary_tags": ["vegetarian", "vegan"],
+        "spicy": false
+      },
+      {
+        "name": "Hand Pulled Noodles",
+        "price": 7.50,
+        "description": "Chewy plain hand-pulled noodles",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false
+      }
+    ],
+    "Vegetarian Dishes": [
+      {
+        "name": "Sour Spicy Shredded Potato",
+        "price": 17.95,
+        "description": "Potato with peppers, salt, MSG, garlic and vinegar",
+        "dietary_tags": ["vegetarian", "vegan"],
+        "spicy": true
+      },
+      {
+        "name": "Fried Eggplant",
+        "price": 17.95,
+        "description": "Eggplant braised with red and green bell peppers and onions",
+        "dietary_tags": ["vegetarian", "vegan"],
+        "spicy": false
+      },
+      {
+        "name": "Baby Bok-Choy with Garlic Sauce",
+        "price": 17.95,
+        "description": "Sauteed baby bok-choy (also known as white cabbage) prepared in our homemade sauce",
+        "dietary_tags": ["vegetarian", "vegan"],
+        "spicy": false
+      },
+      {
+        "name": "Spicy Tofu",
+        "price": 17.95,
+        "description": "Spicy sauteed tofu prepared with onions, spring onions, and bell peppers in a special house spicy and sour tomato-bean paste",
+        "dietary_tags": ["vegetarian"],
+        "spicy": true
+      }
+    ],
+    "Chef's Specialties": [
+      {
+        "name": "Big Plate Chicken",
+        "price": 59.95,
+        "description": "Large portions of marinated and sauteed, bone-in chicken with vegetables on a bed of hand-pulled flat noodles, available with mild, spicy, or extra spicy seasonings",
+        "dietary_tags": [],
+        "spicy": true,
+        "notes": "Preparation time up to 25 minutes. Extra noodle $7.50"
+      },
+      {
+        "name": "Dry Pot",
+        "price": 39.95,
+        "description": "Beef, Shrimp, Fishball, Shrimp Ball, Fish Tofu, Squid, Gluten, and Bok Choy served with Spicy Garlic Sauce and two servings of White Rice",
+        "dietary_tags": [],
+        "spicy": true
+      },
+      {
+        "name": "Piter Manta",
+        "price": 23.95,
+        "description": "Uyghur-style steamed buns stuffed with beef and onions, seasoned with black pepper and house spices",
+        "dietary_tags": [],
+        "spicy": false,
+        "notes": "Preparation time up to 25 minutes, 6 pieces per serve"
+      },
+      {
+        "name": "Kawa Manta",
+        "price": 22.95,
+        "description": "Uyghur-style vegetarian steamed buns stuffed with pumpkin, green and red bell peppers, and onions, seasoned with house spices",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false,
+        "notes": "Preparation time up to 25 minutes, 6 pieces per serve"
+      },
+      {
+        "name": "Uyghur Pilaf",
+        "base_price": 24.95,
+        "description": "Steamed rice with carrots and onions, served with protein and a side salad",
+        "dietary_tags": [],
+        "spicy": false,
+        "variants": [
+          {"option": "With Beef Lamb Mutton", "price": 24.95},
+          {"option": "With Chicken", "price": 23.95},
+          {"option": "With Shrimp", "price": 28.95},
+          {"option": "Lamb Mutton", "price": 24.95}
+        ]
+      },
+      {
+        "name": "Goshnan",
+        "price": 23.95,
+        "description": "Traditional Uyghur-style meat pie stuffed with specially flavored beef and lamb and mixed with onions",
+        "dietary_tags": [],
+        "spicy": false,
+        "notes": "10 minutes preparation time"
+      },
+      {
+        "name": "Kawa Goshnan (Pumpkin)",
+        "price": 22.95,
+        "description": "Traditional Uyghur-style fried bread stuffed with butternut squash, onions, red and green bell peppers, seasoned with black pepper and house spices",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false,
+        "notes": "10 minutes preparation time"
+      },
+      {
+        "name": "Uyghur Beef Stew",
+        "price": 29.95,
+        "description": "Beef, Onion, Carrot, Potato, Bok-choy and Naan",
+        "dietary_tags": [],
+        "spicy": false
+      },
+      {
+        "name": "Pepper Steak",
+        "price": 22.95,
+        "description": "Beef, Onion, Green, and Red pepper served with White Rice",
+        "dietary_tags": [],
+        "spicy": false
+      },
+      {
+        "name": "Mongolian Beef",
+        "price": 22.95,
+        "description": "Beef, Onion, and Scallion served with White Rice",
+        "dietary_tags": [],
+        "spicy": false
+      },
+      {
+        "name": "Kung Pao Chicken",
+        "price": 21.95,
+        "description": "Chicken, Onion, Carrot and Peanut served with White Rice",
+        "dietary_tags": [],
+        "spicy": false
+      },
+      {
+        "name": "Red Chili Chicken",
+        "price": 24.95,
+        "description": "Diced Chicken with Chili Pepper served with White Rice",
+        "dietary_tags": [],
+        "spicy": true
+      }
+    ],
+    "Kebab": [
+      {
+        "name": "Chicken Kebab",
+        "price": 6.95,
+        "description": "Chunks of boneless chicken marinated in cumin and house spices",
+        "dietary_tags": [],
+        "spicy": false
+      },
+      {
+        "name": "Lamb Kebab",
+        "price": 6.95,
+        "description": "Chunks of lamb marinated in cumin and house spices served on a skewer",
+        "dietary_tags": [],
+        "spicy": false
+      },
+      {
+        "name": "Whole Lamb Tandoor Kebab",
+        "description": "Tender lamb marinated in olive oil, cumin, coriander, turmeric, smoky paprika, and a hint of cayenne — grilled to perfection for bold, savory flavor",
+        "dietary_tags": [],
+        "spicy": false,
+        "variants": [
+          {"option": "1 Pound", "price": 32.95},
+          {"option": "2 Pounds", "price": 59.00},
+          {"option": "3 Pounds", "price": 88.00}
+        ]
+      }
+    ],
+    "Salad": [
+      {
+        "name": "Cucumber Salad",
+        "price": 9.95,
+        "description": "Diced cucumbers, onions, red bell peppers with sesame oil and garlic sauce",
+        "dietary_tags": ["vegetarian", "vegan"],
+        "spicy": false
+      },
+      {
+        "name": "Spicy Chicken Salad",
+        "price": 11.95,
+        "description": "Spiced Chicken, Onion, Scallion, and Pepper with Chili Sauce",
+        "dietary_tags": [],
+        "spicy": true
+      },
+      {
+        "name": "Dolan Salad",
+        "price": 14.95,
+        "description": "Mixed greens, tomato, cucumber, onion and walnuts with pomegranate sauce",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false
+      },
+      {
+        "name": "Beef and Tripe Spicy Sauce",
+        "price": 14.95,
+        "description": "Sliced Beef, Tripe, Sesame Sauce, swimming in Chili Oil",
+        "dietary_tags": [],
+        "spicy": true
+      }
+    ],
+    "Dessert": [
+      {
+        "name": "Dolan Cake",
+        "price": 11.95,
+        "description": "Crafted with white flour, eggs, honey, walnuts, sour cream, buttery cream, and a touch of lemon",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false
+      },
+      {
+        "name": "Honey Cake",
+        "price": 11.95,
+        "description": "Made with wheat flour, honey, eggs, butter, and sour cream",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false
+      },
+      {
+        "name": "Baklava",
+        "price": 10.95,
+        "description": "Fine flour, egg, pistachio, lemon, salt, sugar, and butter. 3 pieces",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false
+      },
+      {
+        "name": "Chocolate Cake",
+        "price": 11.95,
+        "description": "Made with flour, sugar, cocoa powder, eggs, butter, milk, and rich chocolate frosting",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false
+      },
+      {
+        "name": "Sutlach",
+        "price": 9.95,
+        "description": "Creamy rice pudding baked to perfection with a golden caramelized top. A classic and comforting Turkish dessert",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false
+      },
+      {
+        "name": "Kazandibi",
+        "price": 9.95,
+        "description": "Turkish milk pudding with a caramelized, slightly burnt bottom layer",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false
+      }
+    ],
+    "Pot of Tea": [
+      {
+        "name": "Dolan/Uyghur Chai",
+        "price": 15.95,
+        "description": "A mix of organic tea made of rose, red dates, wolfberry and amber crystal sugar",
+        "dietary_tags": ["vegetarian", "vegan"],
+        "spicy": false
+      },
+      {
+        "name": "Pot of Tea Refill",
+        "price": 8.00,
+        "description": "Refill for pot of tea",
+        "dietary_tags": ["vegetarian", "vegan"],
+        "spicy": false,
+        "variants": [
+          {"option": "Black Chai", "price": 8.00},
+          {"option": "Green Tea", "price": 8.00},
+          {"option": "Turkish Tea", "price": 8.00}
+        ]
+      }
+    ],
+    "Uyghur Doghap": [
+      {
+        "name": "Original Doghap (Salty)",
+        "price": 5.95,
+        "description": "Traditional blended yogurt drink, original salty flavor",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false
+      },
+      {
+        "name": "Pineapple Doghap",
+        "price": 5.95,
+        "description": "Traditional blended yogurt drink, pineapple flavored",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false
+      },
+      {
+        "name": "Strawberry Doghap",
+        "price": 5.95,
+        "description": "Traditional blended yogurt drink, strawberry flavored",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false
+      },
+      {
+        "name": "Mango Doghap",
+        "price": 5.95,
+        "description": "Traditional blended yogurt drink, mango flavored",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false
+      },
+      {
+        "name": "Raspberry Doghap",
+        "price": 5.95,
+        "description": "Traditional blended yogurt drink, raspberry flavored",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false
+      },
+      {
+        "name": "Green Tea Doghap",
+        "price": 5.95,
+        "description": "Traditional blended yogurt drink, green tea flavored",
+        "dietary_tags": ["vegetarian"],
+        "spicy": false
+      }
+    ],
+    "Beverages": [
+      {"name": "Diet Coke/Coke", "price": 2.95, "dietary_tags": ["vegetarian", "vegan"], "spicy": false},
+      {"name": "Ginger Ale", "price": 2.95, "dietary_tags": ["vegetarian", "vegan"], "spicy": false},
+      {"name": "Sprite", "price": 2.95, "dietary_tags": ["vegetarian", "vegan"], "spicy": false},
+      {"name": "Shirley Temple", "price": 3.95, "dietary_tags": ["vegetarian", "vegan"], "spicy": false},
+      {"name": "Sweet Iced Tea", "price": 2.95, "dietary_tags": ["vegetarian", "vegan"], "spicy": false},
+      {"name": "Large Bottle of Water", "price": 6.95, "dietary_tags": ["vegetarian", "vegan"], "spicy": false},
+      {"name": "Large Bottle of Sparkling Water", "price": 6.95, "dietary_tags": ["vegetarian", "vegan"], "spicy": false},
+      {"name": "Urumchi Sunset", "price": 6.95, "dietary_tags": ["vegetarian", "vegan"], "spicy": false},
+      {"name": "Lemonade", "price": 2.95, "dietary_tags": ["vegetarian", "vegan"], "spicy": false}
+    ]
+  }
+}

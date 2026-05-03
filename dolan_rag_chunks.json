@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "dolan_appetizers_lentil_soup",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Appetizers",
+    "name": "Lentil Soup",
+    "price": 9.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Lentil Soup is a appetizers dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $9.95. Lentil, wheat flour, onions, potatoes, red chili sauce, and tomato sauce, combined in a veggie broth base and sprinkled with mint. It is vegetarian."
+  },
+  {
+    "id": "dolan_appetizers_cold_skin_noodle",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Appetizers",
+    "name": "Cold Skin Noodle",
+    "price": 9.95,
+    "spicy": true,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Cold Skin Noodle is a appetizers dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $9.95. Made from Wheat Flour, Cucumber, Cilantro, Bean Sprouts, and Gluten with Spicy Sauce. It is vegetarian. It is spicy."
+  },
+  {
+    "id": "dolan_appetizers_chuchura",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Appetizers",
+    "name": "Chuchura",
+    "price": 10.95,
+    "spicy": false,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Chuchura is a appetizers dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $10.95. Mini-dumpling soup with minced beef, lamb, and onions, seasoned with black pepper."
+  },
+  {
+    "id": "dolan_appetizers_sigara_boregi",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Appetizers",
+    "name": "Sigara Boregi",
+    "price": 9.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Sigara Boregi is a appetizers dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $9.95. Crispy rolls with herby cheese filling and parsley. It is vegetarian."
+  },
+  {
+    "id": "dolan_appetizers_cold_egg_noodle",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Appetizers",
+    "name": "Cold Egg Noodle",
+    "price": 9.95,
+    "spicy": true,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Cold Egg Noodle is a appetizers dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $9.95. Made from Flour and Egg with Spicy Sesame, Peanut, Sesame Sauce, and Chili Oil. It is vegetarian. It is spicy."
+  },
+  {
+    "id": "dolan_appetizers_samsa",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Appetizers",
+    "name": "Samsa",
+    "price": 4.95,
+    "spicy": false,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "One Per Order",
+    "embedding_text": "Samsa is a appetizers dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $4.95. Oven-baked buns with minced beef, lamb and onions seasoned with black pepper, red pepper and sprinkled with sesame oil. Note: One Per Order."
+  },
+  {
+    "id": "dolan_appetizers_kawa_samsa",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Appetizers",
+    "name": "Kawa Samsa",
+    "price": 4.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "One Per Order",
+    "embedding_text": "Kawa Samsa is a appetizers dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $4.95. Butternut squash, onions, red and green bell peppers, black pepper, and house spices stuffed yolk and sesame sprinkled oven-baked buns. It is vegetarian. Note: One Per Order."
+  },
+  {
+    "id": "dolan_appetizers_chicken_burger",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Appetizers",
+    "name": "Chicken Burger",
+    "price": 10.95,
+    "spicy": true,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Chicken Burger is a appetizers dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $10.95. The Bun is filled with Chicken, Onion, and Peppers. It is spicy."
+  },
+  {
+    "id": "dolan_appetizers_beef_burger",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Appetizers",
+    "name": "Beef Burger",
+    "price": 10.95,
+    "spicy": true,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Beef Burger is a appetizers dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $10.95. The Bun is filled with Beef, Onion, and Peppers. It is spicy."
+  },
+  {
+    "id": "dolan_appetizers_dolma",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Appetizers",
+    "name": "Dolma",
+    "price": 9.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Dolma is a appetizers dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $9.95. Traditional Turkish dish that consists of stuffed vegetables, like bell peppers, aubergine, and white wrapped with grape leaves. It is vegetarian."
+  },
+  {
+    "id": "dolan_rice_and_noodles_dolan_laghman",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Rice & Noodles",
+    "name": "Dolan Laghman",
+    "price": 19.95,
+    "spicy": false,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Dolan Laghman is a rice & noodles dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $19.95. Sauteed beef and various combinations of vegetables, beef, and mushroom oyster-flavored sauce topped with hand-pulled chewy noodles."
+  },
+  {
+    "id": "dolan_rice_and_noodles_royal_laghman",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Rice & Noodles",
+    "name": "Royal Laghman",
+    "price": 19.95,
+    "spicy": false,
+    "dietary_tags": [],
+    "variants": [
+      {
+        "option": "Vegetarian",
+        "price": 19.95
+      },
+      {
+        "option": "With Beef",
+        "price": 19.95
+      },
+      {
+        "option": "With Chicken",
+        "price": 19.95
+      },
+      {
+        "option": "With Shrimp",
+        "price": 23.95
+      }
+    ],
+    "notes": "",
+    "embedding_text": "Royal Laghman is a rice & noodles dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $19.95. Beef, stir-fried onions, cabbage, mushrooms, green and red peppers, mushroom oyster-flavored sauce, and tomato topped hand-pulled chewy noodles. Available as: Vegetarian ($19.95), With Beef ($19.95), With Chicken ($19.95), With Shrimp ($23.95)."
+  },
+  {
+    "id": "dolan_rice_and_noodles_korma_chop",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Rice & Noodles",
+    "name": "Korma Chop",
+    "price": 19.95,
+    "spicy": false,
+    "dietary_tags": [],
+    "variants": [
+      {
+        "option": "Vegetarian",
+        "price": 19.95
+      },
+      {
+        "option": "With Beef",
+        "price": 19.95
+      },
+      {
+        "option": "With Chicken",
+        "price": 19.95
+      },
+      {
+        "option": "With Shrimp",
+        "price": 23.95
+      }
+    ],
+    "notes": "",
+    "embedding_text": "Korma Chop is a rice & noodles dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $19.95. Uyghur-styled signature fried noodles with chives, onions, red bell peppers, and beef or chicken or shrimp. Vegetarian version also available. Available as: Vegetarian ($19.95), With Beef ($19.95), With Chicken ($19.95), With Shrimp ($23.95)."
+  },
+  {
+    "id": "dolan_rice_and_noodles_pearled_noodles",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Rice & Noodles",
+    "name": "Pearled Noodles",
+    "price": 19.95,
+    "spicy": false,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Pearled Noodles is a rice & noodles dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $19.95. Stir-fried pearled noodles with finely cut beef and veggies. Vegetarian version also available."
+  },
+  {
+    "id": "dolan_rice_and_noodles_fried_rice",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Rice & Noodles",
+    "name": "Fried Rice",
+    "price": 18.95,
+    "spicy": false,
+    "dietary_tags": [],
+    "variants": [
+      {
+        "option": "Vegetarian",
+        "price": 18.95
+      },
+      {
+        "option": "With Chicken",
+        "price": 18.95
+      },
+      {
+        "option": "With Beef",
+        "price": 18.95
+      },
+      {
+        "option": "With Shrimp",
+        "price": 22.95
+      }
+    ],
+    "notes": "",
+    "embedding_text": "Fried Rice is a rice & noodles dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $18.95. White Rice fried with Chicken, salt, sugar, Onion, red and green peppers. Available as: Vegetarian ($18.95), With Chicken ($18.95), With Beef ($18.95), With Shrimp ($22.95)."
+  },
+  {
+    "id": "dolan_rice_and_noodles_signature_rice_noodle",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Rice & Noodles",
+    "name": "Signature Rice Noodle",
+    "price": 19.95,
+    "spicy": true,
+    "dietary_tags": [],
+    "variants": [
+      {
+        "option": "With Chicken",
+        "price": 19.95
+      },
+      {
+        "option": "With Beef",
+        "price": 19.95
+      },
+      {
+        "option": "With Shrimp",
+        "price": 23.95
+      }
+    ],
+    "notes": "",
+    "embedding_text": "Signature Rice Noodle is a rice & noodles dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $19.95. Rice noodles prepared with a stir-fry combination of chicken, onions, celery, chili peppers, spicy bean paste, oyster-flavored sauce and house spices. It is spicy. Available as: With Chicken ($19.95), With Beef ($19.95), With Shrimp ($23.95)."
+  },
+  {
+    "id": "dolan_rice_and_noodles_rock_pot_soup",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Rice & Noodles",
+    "name": "Rock Pot Soup",
+    "price": 20.95,
+    "spicy": true,
+    "dietary_tags": [],
+    "variants": [
+      {
+        "option": "With Beef and Meatball",
+        "price": 20.95
+      },
+      {
+        "option": "With Seafood",
+        "price": 23.95
+      }
+    ],
+    "notes": "",
+    "embedding_text": "Rock Pot Soup is a rice & noodles dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $20.95. Hot pot style soup available with beef or seafood. With Beef: house-made Meatball, Enoki Mushroom, Bok Choy, Tofu, Mung Bean Vermicelli, Cilantro, Scallion and Chili Oil. With Seafood: Shrimp, Fish-Tofu, Enoki Mushroom, Bok Choy, Tofu, Mung Bean Vermicelli, Cilantro, Scallion and Chili Oil. It is spicy. Available as: With Beef and Meatball ($20.95), With Seafood ($23.95)."
+  },
+  {
+    "id": "dolan_rice_and_noodles_beef_noodle_soup",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Rice & Noodles",
+    "name": "Beef Noodle Soup",
+    "price": 17.95,
+    "spicy": true,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Beef Noodle Soup is a rice & noodles dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $17.95. Beef, Onion, Scallion, Cilantro, Green Radish Noodles, and Spicy Chili Oil. It is spicy."
+  },
+  {
+    "id": "dolan_rice_and_noodles_white_rice",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Rice & Noodles",
+    "name": "White Rice",
+    "price": 3.5,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "White Rice is a rice & noodles dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $3.50. Plain steamed white rice. It is vegetarian, vegan."
+  },
+  {
+    "id": "dolan_rice_and_noodles_hand_pulled_noodles",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Rice & Noodles",
+    "name": "Hand Pulled Noodles",
+    "price": 7.5,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Hand Pulled Noodles is a rice & noodles dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $7.50. Chewy plain hand-pulled noodles. It is vegetarian."
+  },
+  {
+    "id": "dolan_vegetarian_dishes_sour_spicy_shredded_potato",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Vegetarian Dishes",
+    "name": "Sour Spicy Shredded Potato",
+    "price": 17.95,
+    "spicy": true,
+    "dietary_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Sour Spicy Shredded Potato is a vegetarian dishes dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $17.95. Potato with peppers, salt, MSG, garlic and vinegar. It is vegetarian, vegan. It is spicy."
+  },
+  {
+    "id": "dolan_vegetarian_dishes_fried_eggplant",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Vegetarian Dishes",
+    "name": "Fried Eggplant",
+    "price": 17.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Fried Eggplant is a vegetarian dishes dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $17.95. Eggplant braised with red and green bell peppers and onions. It is vegetarian, vegan."
+  },
+  {
+    "id": "dolan_vegetarian_dishes_baby_bok-choy_with_garlic_sauce",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Vegetarian Dishes",
+    "name": "Baby Bok-Choy with Garlic Sauce",
+    "price": 17.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Baby Bok-Choy with Garlic Sauce is a vegetarian dishes dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $17.95. Sauteed baby bok-choy (also known as white cabbage) prepared in our homemade sauce. It is vegetarian, vegan."
+  },
+  {
+    "id": "dolan_vegetarian_dishes_spicy_tofu",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Vegetarian Dishes",
+    "name": "Spicy Tofu",
+    "price": 17.95,
+    "spicy": true,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Spicy Tofu is a vegetarian dishes dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $17.95. Spicy sauteed tofu prepared with onions, spring onions, and bell peppers in a special house spicy and sour tomato-bean paste. It is vegetarian. It is spicy."
+  },
+  {
+    "id": "dolan_chefs_specialties_big_plate_chicken",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Chef's Specialties",
+    "name": "Big Plate Chicken",
+    "price": 59.95,
+    "spicy": true,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "Preparation time up to 25 minutes. Extra noodle $7.50",
+    "embedding_text": "Big Plate Chicken is a chef's specialties dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $59.95. Large portions of marinated and sauteed, bone-in chicken with vegetables on a bed of hand-pulled flat noodles, available with mild, spicy, or extra spicy seasonings. It is spicy. Note: Preparation time up to 25 minutes. Extra noodle $7.50."
+  },
+  {
+    "id": "dolan_chefs_specialties_dry_pot",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Chef's Specialties",
+    "name": "Dry Pot",
+    "price": 39.95,
+    "spicy": true,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Dry Pot is a chef's specialties dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $39.95. Beef, Shrimp, Fishball, Shrimp Ball, Fish Tofu, Squid, Gluten, and Bok Choy served with Spicy Garlic Sauce and two servings of White Rice. It is spicy."
+  },
+  {
+    "id": "dolan_chefs_specialties_piter_manta",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Chef's Specialties",
+    "name": "Piter Manta",
+    "price": 23.95,
+    "spicy": false,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "Preparation time up to 25 minutes, 6 pieces per serve",
+    "embedding_text": "Piter Manta is a chef's specialties dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $23.95. Uyghur-style steamed buns stuffed with beef and onions, seasoned with black pepper and house spices. Note: Preparation time up to 25 minutes, 6 pieces per serve."
+  },
+  {
+    "id": "dolan_chefs_specialties_kawa_manta",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Chef's Specialties",
+    "name": "Kawa Manta",
+    "price": 22.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "Preparation time up to 25 minutes, 6 pieces per serve",
+    "embedding_text": "Kawa Manta is a chef's specialties dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $22.95. Uyghur-style vegetarian steamed buns stuffed with pumpkin, green and red bell peppers, and onions, seasoned with house spices. It is vegetarian. Note: Preparation time up to 25 minutes, 6 pieces per serve."
+  },
+  {
+    "id": "dolan_chefs_specialties_uyghur_pilaf",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Chef's Specialties",
+    "name": "Uyghur Pilaf",
+    "price": 24.95,
+    "spicy": false,
+    "dietary_tags": [],
+    "variants": [
+      {
+        "option": "With Beef Lamb Mutton",
+        "price": 24.95
+      },
+      {
+        "option": "With Chicken",
+        "price": 23.95
+      },
+      {
+        "option": "With Shrimp",
+        "price": 28.95
+      },
+      {
+        "option": "Lamb Mutton",
+        "price": 24.95
+      }
+    ],
+    "notes": "",
+    "embedding_text": "Uyghur Pilaf is a chef's specialties dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $24.95. Steamed rice with carrots and onions, served with protein and a side salad. Available as: With Beef Lamb Mutton ($24.95), With Chicken ($23.95), With Shrimp ($28.95), Lamb Mutton ($24.95)."
+  },
+  {
+    "id": "dolan_chefs_specialties_goshnan",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Chef's Specialties",
+    "name": "Goshnan",
+    "price": 23.95,
+    "spicy": false,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "10 minutes preparation time",
+    "embedding_text": "Goshnan is a chef's specialties dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $23.95. Traditional Uyghur-style meat pie stuffed with specially flavored beef and lamb and mixed with onions. Note: 10 minutes preparation time."
+  },
+  {
+    "id": "dolan_chefs_specialties_kawa_goshnan_pumpkin",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Chef's Specialties",
+    "name": "Kawa Goshnan (Pumpkin)",
+    "price": 22.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "10 minutes preparation time",
+    "embedding_text": "Kawa Goshnan (Pumpkin) is a chef's specialties dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $22.95. Traditional Uyghur-style fried bread stuffed with butternut squash, onions, red and green bell peppers, seasoned with black pepper and house spices. It is vegetarian. Note: 10 minutes preparation time."
+  },
+  {
+    "id": "dolan_chefs_specialties_uyghur_beef_stew",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Chef's Specialties",
+    "name": "Uyghur Beef Stew",
+    "price": 29.95,
+    "spicy": false,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Uyghur Beef Stew is a chef's specialties dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $29.95. Beef, Onion, Carrot, Potato, Bok-choy and Naan."
+  },
+  {
+    "id": "dolan_chefs_specialties_pepper_steak",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Chef's Specialties",
+    "name": "Pepper Steak",
+    "price": 22.95,
+    "spicy": false,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Pepper Steak is a chef's specialties dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $22.95. Beef, Onion, Green, and Red pepper served with White Rice."
+  },
+  {
+    "id": "dolan_chefs_specialties_mongolian_beef",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Chef's Specialties",
+    "name": "Mongolian Beef",
+    "price": 22.95,
+    "spicy": false,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Mongolian Beef is a chef's specialties dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $22.95. Beef, Onion, and Scallion served with White Rice."
+  },
+  {
+    "id": "dolan_chefs_specialties_kung_pao_chicken",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Chef's Specialties",
+    "name": "Kung Pao Chicken",
+    "price": 21.95,
+    "spicy": false,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Kung Pao Chicken is a chef's specialties dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $21.95. Chicken, Onion, Carrot and Peanut served with White Rice."
+  },
+  {
+    "id": "dolan_chefs_specialties_red_chili_chicken",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Chef's Specialties",
+    "name": "Red Chili Chicken",
+    "price": 24.95,
+    "spicy": true,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Red Chili Chicken is a chef's specialties dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $24.95. Diced Chicken with Chili Pepper served with White Rice. It is spicy."
+  },
+  {
+    "id": "dolan_kebab_chicken_kebab",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Kebab",
+    "name": "Chicken Kebab",
+    "price": 6.95,
+    "spicy": false,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Chicken Kebab is a kebab dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $6.95. Chunks of boneless chicken marinated in cumin and house spices."
+  },
+  {
+    "id": "dolan_kebab_lamb_kebab",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Kebab",
+    "name": "Lamb Kebab",
+    "price": 6.95,
+    "spicy": false,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Lamb Kebab is a kebab dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $6.95. Chunks of lamb marinated in cumin and house spices served on a skewer."
+  },
+  {
+    "id": "dolan_kebab_whole_lamb_tandoor_kebab",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Kebab",
+    "name": "Whole Lamb Tandoor Kebab",
+    "price": null,
+    "spicy": false,
+    "dietary_tags": [],
+    "variants": [
+      {
+        "option": "1 Pound",
+        "price": 32.95
+      },
+      {
+        "option": "2 Pounds",
+        "price": 59.0
+      },
+      {
+        "option": "3 Pounds",
+        "price": 88.0
+      }
+    ],
+    "notes": "",
+    "embedding_text": "Whole Lamb Tandoor Kebab is a kebab dish at Dolan Uyghur Restaurant in Rockville, MD, priced at price varies by option. Tender lamb marinated in olive oil, cumin, coriander, turmeric, smoky paprika, and a hint of cayenne \u2014 grilled to perfection for bold, savory flavor. Available as: 1 Pound ($32.95), 2 Pounds ($59.00), 3 Pounds ($88.00)."
+  },
+  {
+    "id": "dolan_salad_cucumber_salad",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Salad",
+    "name": "Cucumber Salad",
+    "price": 9.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Cucumber Salad is a salad dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $9.95. Diced cucumbers, onions, red bell peppers with sesame oil and garlic sauce. It is vegetarian, vegan."
+  },
+  {
+    "id": "dolan_salad_spicy_chicken_salad",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Salad",
+    "name": "Spicy Chicken Salad",
+    "price": 11.95,
+    "spicy": true,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Spicy Chicken Salad is a salad dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $11.95. Spiced Chicken, Onion, Scallion, and Pepper with Chili Sauce. It is spicy."
+  },
+  {
+    "id": "dolan_salad_dolan_salad",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Salad",
+    "name": "Dolan Salad",
+    "price": 14.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Dolan Salad is a salad dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $14.95. Mixed greens, tomato, cucumber, onion and walnuts with pomegranate sauce. It is vegetarian."
+  },
+  {
+    "id": "dolan_salad_beef_and_tripe_spicy_sauce",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Salad",
+    "name": "Beef and Tripe Spicy Sauce",
+    "price": 14.95,
+    "spicy": true,
+    "dietary_tags": [],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Beef and Tripe Spicy Sauce is a salad dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $14.95. Sliced Beef, Tripe, Sesame Sauce, swimming in Chili Oil. It is spicy."
+  },
+  {
+    "id": "dolan_dessert_dolan_cake",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Dessert",
+    "name": "Dolan Cake",
+    "price": 11.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Dolan Cake is a dessert dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $11.95. Crafted with white flour, eggs, honey, walnuts, sour cream, buttery cream, and a touch of lemon. It is vegetarian."
+  },
+  {
+    "id": "dolan_dessert_honey_cake",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Dessert",
+    "name": "Honey Cake",
+    "price": 11.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Honey Cake is a dessert dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $11.95. Made with wheat flour, honey, eggs, butter, and sour cream. It is vegetarian."
+  },
+  {
+    "id": "dolan_dessert_baklava",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Dessert",
+    "name": "Baklava",
+    "price": 10.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Baklava is a dessert dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $10.95. Fine flour, egg, pistachio, lemon, salt, sugar, and butter. 3 pieces. It is vegetarian."
+  },
+  {
+    "id": "dolan_dessert_chocolate_cake",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Dessert",
+    "name": "Chocolate Cake",
+    "price": 11.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Chocolate Cake is a dessert dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $11.95. Made with flour, sugar, cocoa powder, eggs, butter, milk, and rich chocolate frosting. It is vegetarian."
+  },
+  {
+    "id": "dolan_dessert_sutlach",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Dessert",
+    "name": "Sutlach",
+    "price": 9.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Sutlach is a dessert dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $9.95. Creamy rice pudding baked to perfection with a golden caramelized top. A classic and comforting Turkish dessert. It is vegetarian."
+  },
+  {
+    "id": "dolan_dessert_kazandibi",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Dessert",
+    "name": "Kazandibi",
+    "price": 9.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Kazandibi is a dessert dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $9.95. Turkish milk pudding with a caramelized, slightly burnt bottom layer. It is vegetarian."
+  },
+  {
+    "id": "dolan_pot_of_tea_dolan_uyghur_chai",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Pot of Tea",
+    "name": "Dolan/Uyghur Chai",
+    "price": 15.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Dolan/Uyghur Chai is a pot of tea dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $15.95. A mix of organic tea made of rose, red dates, wolfberry and amber crystal sugar. It is vegetarian, vegan."
+  },
+  {
+    "id": "dolan_pot_of_tea_pot_of_tea_refill",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Pot of Tea",
+    "name": "Pot of Tea Refill",
+    "price": 8.0,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "variants": [
+      {
+        "option": "Black Chai",
+        "price": 8.0
+      },
+      {
+        "option": "Green Tea",
+        "price": 8.0
+      },
+      {
+        "option": "Turkish Tea",
+        "price": 8.0
+      }
+    ],
+    "notes": "",
+    "embedding_text": "Pot of Tea Refill is a pot of tea dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $8.00. Refill for pot of tea. It is vegetarian, vegan. Available as: Black Chai ($8.00), Green Tea ($8.00), Turkish Tea ($8.00)."
+  },
+  {
+    "id": "dolan_uyghur_doghap_original_doghap_salty",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Uyghur Doghap",
+    "name": "Original Doghap (Salty)",
+    "price": 5.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Original Doghap (Salty) is a uyghur doghap dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $5.95. Traditional blended yogurt drink, original salty flavor. It is vegetarian."
+  },
+  {
+    "id": "dolan_uyghur_doghap_pineapple_doghap",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Uyghur Doghap",
+    "name": "Pineapple Doghap",
+    "price": 5.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Pineapple Doghap is a uyghur doghap dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $5.95. Traditional blended yogurt drink, pineapple flavored. It is vegetarian."
+  },
+  {
+    "id": "dolan_uyghur_doghap_strawberry_doghap",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Uyghur Doghap",
+    "name": "Strawberry Doghap",
+    "price": 5.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Strawberry Doghap is a uyghur doghap dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $5.95. Traditional blended yogurt drink, strawberry flavored. It is vegetarian."
+  },
+  {
+    "id": "dolan_uyghur_doghap_mango_doghap",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Uyghur Doghap",
+    "name": "Mango Doghap",
+    "price": 5.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Mango Doghap is a uyghur doghap dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $5.95. Traditional blended yogurt drink, mango flavored. It is vegetarian."
+  },
+  {
+    "id": "dolan_uyghur_doghap_raspberry_doghap",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Uyghur Doghap",
+    "name": "Raspberry Doghap",
+    "price": 5.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Raspberry Doghap is a uyghur doghap dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $5.95. Traditional blended yogurt drink, raspberry flavored. It is vegetarian."
+  },
+  {
+    "id": "dolan_uyghur_doghap_green_tea_doghap",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Uyghur Doghap",
+    "name": "Green Tea Doghap",
+    "price": 5.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Green Tea Doghap is a uyghur doghap dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $5.95. Traditional blended yogurt drink, green tea flavored. It is vegetarian."
+  },
+  {
+    "id": "dolan_beverages_diet_coke_coke",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Beverages",
+    "name": "Diet Coke/Coke",
+    "price": 2.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Diet Coke/Coke is a beverages dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $2.95. . It is vegetarian, vegan."
+  },
+  {
+    "id": "dolan_beverages_ginger_ale",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Beverages",
+    "name": "Ginger Ale",
+    "price": 2.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Ginger Ale is a beverages dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $2.95. . It is vegetarian, vegan."
+  },
+  {
+    "id": "dolan_beverages_sprite",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Beverages",
+    "name": "Sprite",
+    "price": 2.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Sprite is a beverages dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $2.95. . It is vegetarian, vegan."
+  },
+  {
+    "id": "dolan_beverages_shirley_temple",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Beverages",
+    "name": "Shirley Temple",
+    "price": 3.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Shirley Temple is a beverages dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $3.95. . It is vegetarian, vegan."
+  },
+  {
+    "id": "dolan_beverages_sweet_iced_tea",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Beverages",
+    "name": "Sweet Iced Tea",
+    "price": 2.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Sweet Iced Tea is a beverages dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $2.95. . It is vegetarian, vegan."
+  },
+  {
+    "id": "dolan_beverages_large_bottle_of_water",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Beverages",
+    "name": "Large Bottle of Water",
+    "price": 6.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Large Bottle of Water is a beverages dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $6.95. . It is vegetarian, vegan."
+  },
+  {
+    "id": "dolan_beverages_large_bottle_of_sparkling_water",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Beverages",
+    "name": "Large Bottle of Sparkling Water",
+    "price": 6.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Large Bottle of Sparkling Water is a beverages dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $6.95. . It is vegetarian, vegan."
+  },
+  {
+    "id": "dolan_beverages_urumchi_sunset",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Beverages",
+    "name": "Urumchi Sunset",
+    "price": 6.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Urumchi Sunset is a beverages dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $6.95. . It is vegetarian, vegan."
+  },
+  {
+    "id": "dolan_beverages_lemonade",
+    "restaurant": "Dolan Uyghur Restaurant",
+    "address": "20-A Maryland Avenue, Rockville MD, 20850",
+    "cuisine": "Uyghur",
+    "category": "Beverages",
+    "name": "Lemonade",
+    "price": 2.95,
+    "spicy": false,
+    "dietary_tags": [
+      "vegetarian",
+      "vegan"
+    ],
+    "variants": [],
+    "notes": "",
+    "embedding_text": "Lemonade is a beverages dish at Dolan Uyghur Restaurant in Rockville, MD, priced at $2.95. . It is vegetarian, vegan."
+  }
+]

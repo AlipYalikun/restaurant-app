@@ -1,24 +1,18 @@
-# ingest_embeddings.py
-# Run this once to embed all menu chunks and store them in Supabase pgvector.
-# Run it again whenever the menu changes — it upserts, so no duplicates.
-#
-# Requirements:
-#   pip install openai supabase python-dotenv
-#
-# .env file needs:
-#   OPENAI_API_KEY=sk-...
-#   SUPABASE_URL=https://your-project.supabase.co
-#   SUPABASE_SERVICE_KEY=eyJ...
-
 import json
 import os
 import time
+import requests
 from dotenv import load_dotenv
 from supabase import create_client
-import requests
-
 
 load_dotenv()
+
+TABLE_NAME = "menu_items"
+
+supabase = create_client(
+    os.environ["SUPABASE_URL"],
+    os.environ["SUPABASE_SERVICE_KEY"],
+)
 
 
 def embed(texts: list[str]) -> list[list[float]]:
@@ -38,7 +32,6 @@ def ingest(chunks_path: str):
 
     print(f"Loaded {len(chunks)} chunks from {chunks_path}")
 
-    # Process in batches of 50 to avoid rate limits
     batch_size = 50
     total_upserted = 0
 
@@ -49,7 +42,6 @@ def ingest(chunks_path: str):
         print(f"Embedding batch {i//batch_size + 1} ({len(batch)} items)...")
         vectors = embed(texts)
 
-        # Build rows for Supabase upsert
         rows = []
         for chunk, vector in zip(batch, vectors):
             rows.append({
@@ -65,10 +57,9 @@ def ingest(chunks_path: str):
                 "variants":       chunk["variants"],
                 "notes":          chunk["notes"],
                 "embedding_text": chunk["embedding_text"],
-                "embedding":      vector,   # the 1536-number list
+                "embedding":      vector,
             })
 
-        # Upsert into Supabase — on_conflict="id" means update if already exists
         result = (
             supabase.table(TABLE_NAME)
             .upsert(rows, on_conflict="id")
@@ -78,12 +69,10 @@ def ingest(chunks_path: str):
         total_upserted += len(rows)
         print(f"  Upserted {len(rows)} rows. Total so far: {total_upserted}")
 
-        # Small delay between batches to be kind to the API
         if i + batch_size < len(chunks):
             time.sleep(0.5)
 
     print(f"\nDone. {total_upserted} items embedded and stored in Supabase.")
-    print(f"Approximate cost: ${total_upserted * 0.00002:.4f}")
 
 
 if __name__ == "__main__":
